@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Fundamentals-entity-framework/1.0.0": {
+        "runtime": {
+          "Fundamentals-entity-framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamentals-entity-framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

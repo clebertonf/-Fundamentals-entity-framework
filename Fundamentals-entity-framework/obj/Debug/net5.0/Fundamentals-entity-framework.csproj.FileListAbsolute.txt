@@ -1,0 +1,16 @@
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\bin\Debug\net5.0\Fundamentals-entity-framework.exe
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\bin\Debug\net5.0\Fundamentals-entity-framework.deps.json
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\bin\Debug\net5.0\Fundamentals-entity-framework.runtimeconfig.json
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\bin\Debug\net5.0\Fundamentals-entity-framework.runtimeconfig.dev.json
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\bin\Debug\net5.0\Fundamentals-entity-framework.dll
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\bin\Debug\net5.0\Fundamentals-entity-framework.pdb
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\obj\Debug\net5.0\Fundamentals-entity-framework.csproj.AssemblyReference.cache
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\obj\Debug\net5.0\Fundamentals-entity-framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\obj\Debug\net5.0\Fundamentals-entity-framework.AssemblyInfoInputs.cache
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\obj\Debug\net5.0\Fundamentals-entity-framework.AssemblyInfo.cs
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\obj\Debug\net5.0\Fundamentals-entity-framework.csproj.CoreCompileInputs.cache
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\obj\Debug\net5.0\Fundamentals-entity-framework.dll
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\obj\Debug\net5.0\refint\Fundamentals-entity-framework.dll
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\obj\Debug\net5.0\Fundamentals-entity-framework.pdb
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\obj\Debug\net5.0\Fundamentals-entity-framework.genruntimeconfig.cache
+D:\Entity-framework\Fundamentals-entity-framework\Fundamentals-entity-framework\obj\Debug\net5.0\ref\Fundamentals-entity-framework.dll
