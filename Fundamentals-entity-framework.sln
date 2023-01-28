@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentals-entity-framework", "Fundamentals-entity-framework\Fundamentals-entity-framework.csproj", "{0B5984D9-0704-446B-A3B8-3899D13D2421}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic-operations", "basic-operations\basic-operations.csproj", "{A9734413-7551-4D5C-BBF1-9541687A3E6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0B5984D9-0704-446B-A3B8-3899D13D2421}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B5984D9-0704-446B-A3B8-3899D13D2421}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B5984D9-0704-446B-A3B8-3899D13D2421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9734413-7551-4D5C-BBF1-9541687A3E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9734413-7551-4D5C-BBF1-9541687A3E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9734413-7551-4D5C-BBF1-9541687A3E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9734413-7551-4D5C-BBF1-9541687A3E6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
