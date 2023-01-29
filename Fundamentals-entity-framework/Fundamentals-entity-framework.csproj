@@ -6,4 +6,8 @@
     <RootNamespace>Fundamentals_entity_framework</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
 </Project>
