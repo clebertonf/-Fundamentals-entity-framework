@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Fundamentals_entity_framework.Data;
+using System;
 
 namespace Fundamentals_entity_framework
 {
@@ -6,7 +7,10 @@ namespace Fundamentals_entity_framework
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            using (var context = new BlogDataContext())
+            {
+                
+            }
         }
     }
 }
