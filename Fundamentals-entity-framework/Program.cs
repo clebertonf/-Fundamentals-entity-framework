@@ -23,7 +23,13 @@ namespace Fundamentals_entity_framework
                 //context.Update(tag);
                 //context.SaveChanges();
 
+                // Delete
+                //var tag = context.Tags.FirstOrDefault(x => x.Id == 2);
 
+                //context.Tags.Remove(tag);
+                //context.SaveChanges();
+
+                // List
             }
         }
     }
