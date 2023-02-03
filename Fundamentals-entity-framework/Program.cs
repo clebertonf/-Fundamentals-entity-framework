@@ -30,6 +30,13 @@ namespace Fundamentals_entity_framework
                 //context.SaveChanges();
 
                 // List
+
+                var tags = context.Tags.ToList(); // To list sempre no final das tags, pois é onde a query de fato é executada
+
+                foreach (var tag in tags)
+                {
+                    Console.WriteLine(tag.Name);
+                }
             }
         }
     }
