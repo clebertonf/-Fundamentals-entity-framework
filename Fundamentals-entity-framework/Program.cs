@@ -1,5 +1,6 @@
 ﻿using Fundamentals_entity_framework.Data;
 using Fundamentals_entity_framework.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Linq;
 
@@ -31,7 +32,8 @@ namespace Fundamentals_entity_framework
 
                 // List
 
-                var tags = context.Tags.ToList(); // To list sempre no final das tags, pois é onde a query de fato é executada
+                var tags = context.Tags.AsNoTracking().ToList(); // To list sempre no final das tags, pois é onde a query de fato é executada
+                // AsNoTracking() não trackeia os dados, não traz metadados, dando performace
 
                 foreach (var tag in tags)
                 {
