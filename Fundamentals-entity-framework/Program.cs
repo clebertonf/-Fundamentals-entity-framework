@@ -32,15 +32,21 @@ namespace Fundamentals_entity_framework
 
                 // List
 
-                var tags = context.Tags.AsNoTracking().ToList(); // To list sempre no final das tags, pois é onde a query de fato é executada
+                // var tags = context.Tags.AsNoTracking().ToList(); // To list sempre no final das tags, pois é onde a query de fato é executada
                 // AsNoTracking() não trackeia os dados, não traz metadados, dando performace.
                 //  AsNoTracking() usado somente em select
                 // Se for fazer um update ou delete não use AsNoTracking() no select antes
 
-                foreach (var tag in tags)
-                {
-                    Console.WriteLine(tag.Name);
-                }
+                //foreach (var tag in tags)
+                //{
+                //    Console.WriteLine(tag.Name);
+                //}
+
+                // Todos métodos de lista executam de fato a query no banco, então sempre devem ser po ultimo
+                // .ToList(), .FirstOrDefault() etc ...
+                var tag = context.Tags.AsNoTracking().FirstOrDefault(x => x.Id == 3);
+
+                Console.WriteLine(tag?.Name);
             }
         }
     }
