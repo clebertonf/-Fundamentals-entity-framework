@@ -6,7 +6,7 @@ namespace basic_operations
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("testing project in solution");
         }
     }
 }

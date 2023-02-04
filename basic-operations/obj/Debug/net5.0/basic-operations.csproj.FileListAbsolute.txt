@@ -1,0 +1,16 @@
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\bin\Debug\net5.0\basic-operations.exe
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\bin\Debug\net5.0\basic-operations.deps.json
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\bin\Debug\net5.0\basic-operations.runtimeconfig.json
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\bin\Debug\net5.0\basic-operations.runtimeconfig.dev.json
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\bin\Debug\net5.0\basic-operations.dll
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\bin\Debug\net5.0\basic-operations.pdb
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\obj\Debug\net5.0\basic-operations.csproj.AssemblyReference.cache
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\obj\Debug\net5.0\basic-operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\obj\Debug\net5.0\basic-operations.AssemblyInfoInputs.cache
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\obj\Debug\net5.0\basic-operations.AssemblyInfo.cs
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\obj\Debug\net5.0\basic-operations.csproj.CoreCompileInputs.cache
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\obj\Debug\net5.0\basic-operations.dll
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\obj\Debug\net5.0\refint\basic-operations.dll
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\obj\Debug\net5.0\basic-operations.pdb
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\obj\Debug\net5.0\basic-operations.genruntimeconfig.cache
+D:\Entity-framework\Fundamentals-entity-framework\basic-operations\obj\Debug\net5.0\ref\basic-operations.dll
