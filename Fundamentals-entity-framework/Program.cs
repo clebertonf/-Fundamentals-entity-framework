@@ -35,6 +35,7 @@ namespace Fundamentals_entity_framework
                 var tags = context.Tags.AsNoTracking().ToList(); // To list sempre no final das tags, pois é onde a query de fato é executada
                 // AsNoTracking() não trackeia os dados, não traz metadados, dando performace.
                 //  AsNoTracking() usado somente em select
+                // Se for fazer um update ou delete não use AsNoTracking() no select antes
 
                 foreach (var tag in tags)
                 {
