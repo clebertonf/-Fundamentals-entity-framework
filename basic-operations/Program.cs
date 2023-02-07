@@ -1,12 +1,14 @@
-﻿using System;
+﻿using basic_operations.Data;
 
 namespace basic_operations
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("testing project in solution");
+            using (var context = new BlogDataContext())
+            {
+            }
         }
     }
 }

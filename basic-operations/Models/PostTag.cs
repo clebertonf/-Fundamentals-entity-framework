@@ -1,4 +1,4 @@
-﻿namespace Fundamentals_entity_framework.Models
+﻿namespace basic_operations.Models
 {
     public class PostTag
     {

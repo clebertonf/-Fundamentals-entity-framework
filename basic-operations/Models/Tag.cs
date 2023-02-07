@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Fundamentals_entity_framework.Models
+namespace basic_operations.Models
 {
     [Table("Tag")]
     public class Tag
