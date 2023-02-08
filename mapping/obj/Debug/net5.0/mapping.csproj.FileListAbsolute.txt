@@ -1,0 +1,16 @@
+D:\Entity-framework\Fundamentals-entity-framework\mapping\bin\Debug\net5.0\mapping.exe
+D:\Entity-framework\Fundamentals-entity-framework\mapping\bin\Debug\net5.0\mapping.deps.json
+D:\Entity-framework\Fundamentals-entity-framework\mapping\bin\Debug\net5.0\mapping.runtimeconfig.json
+D:\Entity-framework\Fundamentals-entity-framework\mapping\bin\Debug\net5.0\mapping.runtimeconfig.dev.json
+D:\Entity-framework\Fundamentals-entity-framework\mapping\bin\Debug\net5.0\mapping.dll
+D:\Entity-framework\Fundamentals-entity-framework\mapping\bin\Debug\net5.0\mapping.pdb
+D:\Entity-framework\Fundamentals-entity-framework\mapping\obj\Debug\net5.0\mapping.csproj.AssemblyReference.cache
+D:\Entity-framework\Fundamentals-entity-framework\mapping\obj\Debug\net5.0\mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity-framework\Fundamentals-entity-framework\mapping\obj\Debug\net5.0\mapping.AssemblyInfoInputs.cache
+D:\Entity-framework\Fundamentals-entity-framework\mapping\obj\Debug\net5.0\mapping.AssemblyInfo.cs
+D:\Entity-framework\Fundamentals-entity-framework\mapping\obj\Debug\net5.0\mapping.csproj.CoreCompileInputs.cache
+D:\Entity-framework\Fundamentals-entity-framework\mapping\obj\Debug\net5.0\mapping.dll
+D:\Entity-framework\Fundamentals-entity-framework\mapping\obj\Debug\net5.0\refint\mapping.dll
+D:\Entity-framework\Fundamentals-entity-framework\mapping\obj\Debug\net5.0\mapping.pdb
+D:\Entity-framework\Fundamentals-entity-framework\mapping\obj\Debug\net5.0\mapping.genruntimeconfig.cache
+D:\Entity-framework\Fundamentals-entity-framework\mapping\obj\Debug\net5.0\ref\mapping.dll
