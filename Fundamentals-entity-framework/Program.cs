@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace Fundamentals_entity_framework
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
