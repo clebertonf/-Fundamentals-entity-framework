@@ -1,0 +1,16 @@
+D:\Entity-framework\Fundamentals-entity-framework\relationships\bin\Debug\net5.0\relationships.exe
+D:\Entity-framework\Fundamentals-entity-framework\relationships\bin\Debug\net5.0\relationships.deps.json
+D:\Entity-framework\Fundamentals-entity-framework\relationships\bin\Debug\net5.0\relationships.runtimeconfig.json
+D:\Entity-framework\Fundamentals-entity-framework\relationships\bin\Debug\net5.0\relationships.runtimeconfig.dev.json
+D:\Entity-framework\Fundamentals-entity-framework\relationships\bin\Debug\net5.0\relationships.dll
+D:\Entity-framework\Fundamentals-entity-framework\relationships\bin\Debug\net5.0\relationships.pdb
+D:\Entity-framework\Fundamentals-entity-framework\relationships\obj\Debug\net5.0\relationships.csproj.AssemblyReference.cache
+D:\Entity-framework\Fundamentals-entity-framework\relationships\obj\Debug\net5.0\relationships.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity-framework\Fundamentals-entity-framework\relationships\obj\Debug\net5.0\relationships.AssemblyInfoInputs.cache
+D:\Entity-framework\Fundamentals-entity-framework\relationships\obj\Debug\net5.0\relationships.AssemblyInfo.cs
+D:\Entity-framework\Fundamentals-entity-framework\relationships\obj\Debug\net5.0\relationships.csproj.CoreCompileInputs.cache
+D:\Entity-framework\Fundamentals-entity-framework\relationships\obj\Debug\net5.0\relationships.dll
+D:\Entity-framework\Fundamentals-entity-framework\relationships\obj\Debug\net5.0\refint\relationships.dll
+D:\Entity-framework\Fundamentals-entity-framework\relationships\obj\Debug\net5.0\relationships.pdb
+D:\Entity-framework\Fundamentals-entity-framework\relationships\obj\Debug\net5.0\relationships.genruntimeconfig.cache
+D:\Entity-framework\Fundamentals-entity-framework\relationships\obj\Debug\net5.0\ref\relationships.dll

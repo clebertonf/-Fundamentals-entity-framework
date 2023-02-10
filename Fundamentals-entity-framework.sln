@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fundamentals-entity-framewo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basic-operations", "basic-operations\basic-operations.csproj", "{A9734413-7551-4D5C-BBF1-9541687A3E6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mapping", "mapping\mapping.csproj", "{89F4ED57-87EC-4673-8F4E-7A821AF5E659}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mapping", "mapping\mapping.csproj", "{89F4ED57-87EC-4673-8F4E-7A821AF5E659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "relationships", "relationships\relationships.csproj", "{C19D06DA-D26B-4A16-8DC9-B09F549DEE77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{89F4ED57-87EC-4673-8F4E-7A821AF5E659}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89F4ED57-87EC-4673-8F4E-7A821AF5E659}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89F4ED57-87EC-4673-8F4E-7A821AF5E659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19D06DA-D26B-4A16-8DC9-B09F549DEE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19D06DA-D26B-4A16-8DC9-B09F549DEE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19D06DA-D26B-4A16-8DC9-B09F549DEE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19D06DA-D26B-4A16-8DC9-B09F549DEE77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
