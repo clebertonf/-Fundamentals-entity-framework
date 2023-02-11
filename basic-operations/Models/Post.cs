@@ -19,7 +19,10 @@ namespace basic_operations.Models
 
         [ForeignKey("CategoryId")]
         public int CategoryId { get; set; }
+        public Category Category { get; set; } // propriedade de navegação
+
         [ForeignKey("AuthorId")]
         public int AuthorId { get; set; }
+        public User Author { get; set; } // propriedade de navegação
     }
 }
