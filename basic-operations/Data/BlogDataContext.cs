@@ -5,15 +5,14 @@ namespace basic_operations.Data
 {
     public class BlogDataContext : DbContext
     {
-        // PostTag e UserRole comentados pois não possuem chave primaria e seim composta. Vamos fazer primeiro um crud basico
-        // Na parte avançada voltamos
         public DbSet<Category> Categories { get; set; }
         public DbSet<Post> Posts { get; set; }
-        // public DbSet<PostTag> PostTags { get; set; }
-        public DbSet<Role> Roles { get; set; }
-        public DbSet<Tag> Tags { get; set; }
         public DbSet<User> Users { get; set; }
+
         // public DbSet<UserRole> UserRoles { get; set; }
+        // public DbSet<PostTag> PostTags { get; set; }
+        // public DbSet<Role> Roles { get; set; }
+        // public DbSet<Tag> Tags { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
