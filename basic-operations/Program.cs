@@ -50,6 +50,7 @@ namespace basic_operations
 
             var posts = context.Posts
                 .AsNoTracking()
+                .Where(x => x.AuthorId == 1)
                 .OrderByDescending(x => x.LastUpdateDate)
                 .ToList();
 
