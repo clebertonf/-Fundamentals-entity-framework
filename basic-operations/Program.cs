@@ -55,7 +55,7 @@ namespace basic_operations
                 .ToList();
 
             foreach(var post in posts)
-                Console.WriteLine($"{post.Title} escrito por ${post.Author?.Name}"); // caso não exista autor retorna vazio
+                Console.WriteLine($"{post.Title} escrito por ${post.Author?.Name} seu id: ${post.Author.Id}"); // caso não exista autor retorna vazio
         }
     }
 }
