@@ -18,7 +18,7 @@ namespace basic_operations.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Server=localhost,1433;Database=Blog;Encrypt=False;User ID=sa;Password=1q2w3e4r@#$");
-            optionsBuilder.LogTo(Console.WriteLine); // Log das queries do banco no console
+            // optionsBuilder.LogTo(Console.WriteLine); // Log das queries do banco no console
         }
     }
 }

@@ -51,11 +51,12 @@ namespace basic_operations
             var posts = context.Posts
                 .AsNoTracking()
                 .Include(x => x.Author) // executa um join
+                .Include(x => x.Category)
                 .OrderByDescending(x => x.LastUpdateDate)
                 .ToList();
 
             foreach(var post in posts)
-                Console.WriteLine($"{post.Title} escrito por ${post.Author?.Name} seu id: ${post.Author.Id}"); // caso não exista autor retorna vazio
+                Console.WriteLine($"{post.Title} escrito por {post.Author?.Name} seu id: {post.Author.Id} escrito na categororia {post.Category?.Name}"); // caso não exista autor retorna vazio
         }
     }
 }
