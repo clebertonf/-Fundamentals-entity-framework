@@ -1,5 +1,4 @@
 ﻿using basic_operations.Data;
-using basic_operations.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Linq;
@@ -48,15 +47,29 @@ namespace basic_operations
 
             // List
 
-            var posts = context.Posts
-                .AsNoTracking()
-                .Include(x => x.Author) // executa um join
-                .Include(x => x.Category)
-                .OrderByDescending(x => x.LastUpdateDate)
-                .ToList();
+            //var posts = context.Posts
+            //    .AsNoTracking()
+            //    .Include(x => x.Author) // executa um join
+            //    .Include(x => x.Category)
+            //    .OrderByDescending(x => x.LastUpdateDate)
+            //    .ToList();
 
-            foreach(var post in posts)
-                Console.WriteLine($"{post.Title} escrito por {post.Author?.Name} seu id: {post.Author.Id} escrito na categororia {post.Category?.Name}"); // caso não exista autor retorna vazio
+            //foreach(var post in posts)
+            //    Console.WriteLine($"{post.Title} escrito por {post.Author?.Name} seu id: {post.Author.Id} escrito na categororia {post.Category?.Name}"); // caso não exista autor retorna vazio
+
+            // Update
+            var post = context
+                .Posts
+                // .AsNoTracking() PRECISA DO TRACKING 
+                .Include(x => x.Author)
+                .Include(x => x.Category)
+                .OrderBy(x => x.LastUpdateDate)
+                .FirstOrDefault(); // Pegando o primeiro item
+
+            post.Author.Name = "Cleber"; // O include de Author deixa alterar a tabela de autores
+            
+             context.Posts.Update(post);
+             context.SaveChanges();
         }
     }
 }
