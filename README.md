@@ -2,6 +2,6 @@
 
 1. Fundamentals-entity-framework (introduction)
 2. Basic-operations
- - Data annotations
+  -- Data annotations
 3. Mapping
 4. Relationships
