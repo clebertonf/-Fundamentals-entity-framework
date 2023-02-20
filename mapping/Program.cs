@@ -1,4 +1,5 @@
-﻿using System;
+﻿using basic_operations.Data;
+using System;
 
 namespace mapping
 {
@@ -6,7 +7,10 @@ namespace mapping
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test Hello World!");
+            using (var context = new BlogDataContext()) 
+            {
+
+            }
         }
     }
 }
