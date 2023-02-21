@@ -1,8 +1,7 @@
-﻿using mapping.Models;
+﻿using relationships.Models;
 using Microsoft.EntityFrameworkCore;
-using System;
 
-namespace mapping.Data
+namespace relationships.Data
 {
     public class BlogDataContext : DbContext
     {
