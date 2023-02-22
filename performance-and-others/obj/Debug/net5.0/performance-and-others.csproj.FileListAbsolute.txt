@@ -1,0 +1,16 @@
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\bin\Debug\net5.0\performance-and-others.exe
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\bin\Debug\net5.0\performance-and-others.deps.json
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\bin\Debug\net5.0\performance-and-others.runtimeconfig.json
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\bin\Debug\net5.0\performance-and-others.runtimeconfig.dev.json
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\bin\Debug\net5.0\performance-and-others.dll
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\bin\Debug\net5.0\performance-and-others.pdb
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\obj\Debug\net5.0\performance-and-others.csproj.AssemblyReference.cache
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\obj\Debug\net5.0\performance-and-others.GeneratedMSBuildEditorConfig.editorconfig
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\obj\Debug\net5.0\performance-and-others.AssemblyInfoInputs.cache
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\obj\Debug\net5.0\performance-and-others.AssemblyInfo.cs
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\obj\Debug\net5.0\performance-and-others.csproj.CoreCompileInputs.cache
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\obj\Debug\net5.0\performance-and-others.dll
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\obj\Debug\net5.0\refint\performance-and-others.dll
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\obj\Debug\net5.0\performance-and-others.pdb
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\obj\Debug\net5.0\performance-and-others.genruntimeconfig.cache
+D:\Entity-framework\Fundamentals-entity-framework\performance-and-others\obj\Debug\net5.0\ref\performance-and-others.dll
