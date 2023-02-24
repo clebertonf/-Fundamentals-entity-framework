@@ -1,4 +1,5 @@
-﻿using System;
+﻿using relationships.Data;
+using System;
 
 namespace relationships
 {
@@ -6,7 +7,10 @@ namespace relationships
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            using (var context = new BlogDataContext())
+            {
+
+            }
         }
     }
 }
